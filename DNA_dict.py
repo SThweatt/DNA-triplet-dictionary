@@ -36,3 +36,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# DNA sequence = TAC TGG TGG GAC TGC TGA TGT GCT TGT CGT CGA CCG AGT CGT CGC TGG GGT CGT TCT GGA
